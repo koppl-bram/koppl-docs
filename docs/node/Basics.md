@@ -12,9 +12,17 @@ Koppl automation consist of 3 components:
 
 Workflows are directed acyclyc graphs consisting of nodes and connections. The nodes execute in order and forward the data that is retrieved to the next node in line. It works similarly to an algorithm.
 There are several ways to start a workflow:
-  1. A workflow can be manually triggered by clicking the "execute workflow" button. ![](execute_1.gif) 
-  2. A workflow can be automatically triggered by making the workflow active, which is a toggle in the top right corner. ![](execute_2.gif)  
-  3. A workflow can be automatically started from another workflow by using the "Execute workflow" node. ![](execute_3.gif) 
+  1. A workflow can be manually triggered by clicking the "execute workflow" button. 
+  
+  ![](execute_1.gif) 
+  
+  2. A workflow can be automatically triggered by making the workflow active, which is a toggle in the top right corner. 
+  
+  ![](execute_2.gif)  
+  
+  3. A workflow can be automatically started from another workflow by using the "Execute workflow" node. 
+  
+  ![](execute_3.gif) 
 
 ## 2) Nodes
   
